@@ -1,0 +1,20 @@
+
+#n2{
+    color: blue;
+    font-size: 36px;
+}
+
+#n4{
+    font-weight: bold;
+    background-color: rgb(125, 233, 125)
+}
+
+.small{
+    font-size: 24px;
+
+}
+
+.odd{
+    background-color: rgb(211, 144, 144);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
